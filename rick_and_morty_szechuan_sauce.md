@@ -1,17 +1,22 @@
 #Method: Standard Szechuan Sauce
- - 1 oz. red dried chinese chilis
- - Szechuan peppercorns
- - Fresh ginger
- - Garlic
- - 1 tbs Sesame seed oil
- - Red wine vinegar
- - A few tbs of soy sauce
- - 1 tbs brown sugar
+ - 1/2 cup water
+ - 1 Tbsp apple cider vinegar
+ - 1/2 cup white vinegar
+ - 1/4 tsp ground ginger
+ - 1/4 tsp garlic powder
+ - 1/4 tsp onion powder
+ - 1/2 tbs Sesame seed oil
+ - 1/2 cup of soy sauce
+ - 1/2 cup white sugar
+ - 1/4 yeast extract (marmite)
+ - 1/4 dextrose (corn syrup)
+ - Ground black pepper to taste
+ - 2 Tbsp cornstarch
+ - 1 tsp xanthan gum
 
- - Dry roast 1 oz. of red dried chinese chilis. Sauteeing in and unoiled pan until fragrant. Add boiling water to the pan and let the peppers steep for 30 minutes.
- - Toast Szechuan peppercorns. Once toasted place in grinder and grind until finely ground. Set aside.
- - Add peppers to food processor along with fresh ginger and blend until paste like.
- - Sweat some garlic in oil and add blended peppers. Sautee for about 2 minutes and then add 1 tbs sesame seed oil, some rice wine vinegar, a few tbs of soy sauce, some of our freshly ground szechuan peppercorns, and about 1tbs of brown sugar. Mix until combined.
+  - Combine water, vinegar, sesame seed oil, garlic powder, onion powder, garlic powder, ground ginger, marmite, corn syrup and ground pepper in medium sized bowl and transfer to medium sauce pan.
+  -  Remove a quarter cup of sauce and add cornstarch, remove another quarter cup and add the xanthan gum. Add both back into the mixture straining the xanthan gum mixture for lumps and whisk over medium heat until it forms a sauce like goo.
+  - Strain, cover and let it cool down.
 
 
 #Method: Fan Recipe Szechuan Sauce
