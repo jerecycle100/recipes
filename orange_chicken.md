@@ -1,3 +1,9 @@
+#Appetizer of Bacon wrapped smokies
+- Bacon (not to be confused with turkey bacon, which is an abomination)
+- Smokies, the kind with cheddar cheese in the middle
+- toothpicks
+
+
 #Chicken:
  - 2 tablespoons cornstarch
 - 4 egg whites
