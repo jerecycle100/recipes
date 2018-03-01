@@ -1,3 +1,5 @@
+Only available in universe C-137
+
 #Method: Standard Szechuan Sauce
  - 1/2 cup water
  - 1 Tbsp apple cider vinegar
