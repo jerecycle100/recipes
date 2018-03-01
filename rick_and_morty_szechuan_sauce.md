@@ -1,6 +1,7 @@
 Only available in universe C-137
 
 #Method: Standard Szechuan Sauce
+ - 1/2 wasubi
  - 1/2 cup water
  - 1 Tbsp apple cider vinegar
  - 1/2 cup white vinegar
