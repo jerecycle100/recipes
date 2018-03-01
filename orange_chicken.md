@@ -2,6 +2,8 @@
 - Bacon (not to be confused with turkey bacon, which is an abomination)
 - Smokies, the kind with cheddar cheese in the middle
 - toothpicks
+Cooking directions:
+Wrap those smokies in bacon and then cook at very very very very high heat!
 
 
 #Chicken:
